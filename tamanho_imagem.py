@@ -1,7 +1,7 @@
 import cv2
 
 # Leitura da imagem com a função imread()
-imagem = cv2.imread('entrada.jpg')
+imagem = cv2.imread('effect.jpg')
 print('Largura em pixels: ', imagem.shape[1]) #largura da
 imagem
 print('Altura em pixels: ', imagem.shape[0]) #altura da imagem
